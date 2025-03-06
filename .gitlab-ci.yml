@@ -12,7 +12,7 @@ build-job:
   stage: build
   script:
   - echo "Compiling the code..."
-  - echo "Compile is completed."
+  - echo "Compile is completed now."
 unit-test-job:
   stage: test
   script:
